@@ -1,0 +1,18 @@
+id; statut; identifiant; nom; prenom; num_telephone; courriel; date_de_naissance; photo; id; titre; description; signature; nom_maitrise; maitrise; id_utilisateur
+64; 1; admin; Admin; Jean; 0782677228; admin@karimandco.com; 26-09-2018; com.mysql.jdbc.Blob@1dcad969
+177; 1; TomLeal; Leal; Tom; 0606060606; tomleal@gmail.com; 10-07-2000; com.mysql.jdbc.Blob@2d4a2114
+179; 0; damien; Fregolent; Damien; 0606066066; fregolentdamien@gmail.com; 30-06-2000; com.mysql.jdbc.Blob@191cee06
+190; 0; baba; baba; baba; 0604140562; baba@gmail.com; 01-11-2000; com.mysql.jdbc.Blob@7c180c91
+222; 0; 222; Titouan; bbb; 0755445577; ccc@gmail.com; 01-01-1996; com.mysql.jdbc.Blob@375293ea
+224; 0; 224; Titouan; bbbege; 0645512541; ccsdfec@gmail.com; 01-01-1994; com.mysql.jdbc.Blob@4bec5695
+228; 0; oznerol; saupagna; lorenzo; 0606060606; lorenzo1916@gmail.com; 14-02-2001; com.mysql.jdbc.Blob@357efd30
+230; 1; test; test; testp; 0909090909; test@test.fr; 12-12-2001; com.mysql.jdbc.Blob@9be038a
+235; 0; Gaga; Pujole; Galdrice; 0066660066; gaga@gmail.com; 08-05-2000; com.mysql.jdbc.Blob@2ad01c94
+237; 0; mlkjhgfdsq; erjuubigrezug; ihubigibgziubgzfbui; 0606060606; kjopsoubuzf@uaifgbiau.fr; 14-02-2001; com.mysql.jdbc.Blob@321bfa5
+238; 0; pierre; pierre; pierre; 0606060606; pierre@gmail.com; 01-01-1956; com.mysql.jdbc.Blob@4174458c
+239; 0; a; c; d; e; f; 06-11-2019; com.mysql.jdbc.Blob@38afbc7b
+240; 0; testtest; testttttt; testtttt; 0909090909; test@test.fr; 12-12-2000; com.mysql.jdbc.Blob@12313346
+253; 0; marie; marie; marie; 0606060606; marie@gmail.com; 05-07-1555; com.mysql.jdbc.Blob@1c636a32
+254; 1; pujolgaldric; pujol; galdric; 0000000000; oui@oui.fr; 23-08-1999; com.mysql.jdbc.Blob@7fd81417
+255; 0; stpmarche; test; stpmarche; 0606060606; stpmarche@gmail.com; 31-05-2000; com.mysql.jdbc.Blob@3ad123f3
+262; 0; jean; jean; claude; 0666666666; jean@gmail.com; 27-03-1999; com.mysql.jdbc.Blob@21619cec

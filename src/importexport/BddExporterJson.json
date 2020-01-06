@@ -1,0 +1,522 @@
+{
+"utilisateurs": [{
+"id": "64",
+"statut": "1",
+"identifiant": "admin",
+"nom": "Admin",
+"prenom": "Jean",
+"num_telephone": "0782677228",
+"courriel": "admin@karimandco.com",
+"date_de_naissance": "26-09-2018",
+"photo": "com.mysql.jdbc.Blob@7948517e"
+},
+{
+"id": "177",
+"statut": "1",
+"identifiant": "TomLeal",
+"nom": "Leal",
+"prenom": "Tom",
+"num_telephone": "0606060606",
+"courriel": "tomleal@gmail.com",
+"date_de_naissance": "10-07-2000",
+"photo": "com.mysql.jdbc.Blob@20420ca5"
+},
+{
+"id": "179",
+"statut": "0",
+"identifiant": "damien",
+"nom": "Fregolent",
+"prenom": "Damien",
+"num_telephone": "0606066066",
+"courriel": "fregolentdamien@gmail.com",
+"date_de_naissance": "30-06-2000",
+"photo": "com.mysql.jdbc.Blob@3874fc04"
+},
+{
+"id": "190",
+"statut": "0",
+"identifiant": "baba",
+"nom": "baba",
+"prenom": "baba",
+"num_telephone": "0604140562",
+"courriel": "baba@gmail.com",
+"date_de_naissance": "01-11-2000",
+"photo": "com.mysql.jdbc.Blob@759bbb87"
+},
+{
+"id": "222",
+"statut": "0",
+"identifiant": "222",
+"nom": "Titouan",
+"prenom": "bbb",
+"num_telephone": "0755445577",
+"courriel": "ccc@gmail.com",
+"date_de_naissance": "01-01-1996",
+"photo": "com.mysql.jdbc.Blob@4ee3d7eb"
+},
+{
+"id": "224",
+"statut": "0",
+"identifiant": "224",
+"nom": "Titouan",
+"prenom": "bbbege",
+"num_telephone": "0645512541",
+"courriel": "ccsdfec@gmail.com",
+"date_de_naissance": "01-01-1994",
+"photo": "com.mysql.jdbc.Blob@7e74cdb6"
+},
+{
+"id": "228",
+"statut": "0",
+"identifiant": "oznerol",
+"nom": "saupagna",
+"prenom": "lorenzo",
+"num_telephone": "0606060606",
+"courriel": "lorenzo1916@gmail.com",
+"date_de_naissance": "14-02-2001",
+"photo": "com.mysql.jdbc.Blob@61ff8aa0"
+},
+{
+"id": "230",
+"statut": "1",
+"identifiant": "test",
+"nom": "test",
+"prenom": "testp",
+"num_telephone": "0909090909",
+"courriel": "test@test.fr",
+"date_de_naissance": "12-12-2001",
+"photo": "com.mysql.jdbc.Blob@4910429b"
+},
+{
+"id": "235",
+"statut": "0",
+"identifiant": "Gaga",
+"nom": "Pujole",
+"prenom": "Galdrice",
+"num_telephone": "0066660066",
+"courriel": "gaga@gmail.com",
+"date_de_naissance": "08-05-2000",
+"photo": "com.mysql.jdbc.Blob@199c88dd"
+},
+{
+"id": "237",
+"statut": "0",
+"identifiant": "mlkjhgfdsq",
+"nom": "erjuubigrezug",
+"prenom": "ihubigibgziubgzfbui",
+"num_telephone": "0606060606",
+"courriel": "kjopsoubuzf@uaifgbiau.fr",
+"date_de_naissance": "14-02-2001",
+"photo": "com.mysql.jdbc.Blob@415def25"
+},
+{
+"id": "238",
+"statut": "0",
+"identifiant": "pierre",
+"nom": "pierre",
+"prenom": "pierre",
+"num_telephone": "0606060606",
+"courriel": "pierre@gmail.com",
+"date_de_naissance": "01-01-1956",
+"photo": "com.mysql.jdbc.Blob@5c6ad724"
+},
+{
+"id": "239",
+"statut": "0",
+"identifiant": "a",
+"nom": "c",
+"prenom": "d",
+"num_telephone": "e",
+"courriel": "f",
+"date_de_naissance": "06-11-2019",
+"photo": "com.mysql.jdbc.Blob@172542a8"
+},
+{
+"id": "240",
+"statut": "0",
+"identifiant": "testtest",
+"nom": "testttttt",
+"prenom": "testtttt",
+"num_telephone": "0909090909",
+"courriel": "test@test.fr",
+"date_de_naissance": "12-12-2000",
+"photo": "com.mysql.jdbc.Blob@6a02faf1"
+},
+{
+"id": "253",
+"statut": "0",
+"identifiant": "marie",
+"nom": "marie",
+"prenom": "marie",
+"num_telephone": "0606060606",
+"courriel": "marie@gmail.com",
+"date_de_naissance": "05-07-1555",
+"photo": "com.mysql.jdbc.Blob@44080453"
+},
+{
+"id": "254",
+"statut": "1",
+"identifiant": "pujolgaldric",
+"nom": "pujol",
+"prenom": "galdric",
+"num_telephone": "0000000000",
+"courriel": "oui@oui.fr",
+"date_de_naissance": "23-08-1999",
+"photo": "com.mysql.jdbc.Blob@4ed13801"
+},
+{
+"id": "255",
+"statut": "0",
+"identifiant": "stpmarche",
+"nom": "test",
+"prenom": "stpmarche",
+"num_telephone": "0606060606",
+"courriel": "stpmarche@gmail.com",
+"date_de_naissance": "31-05-2000",
+"photo": "com.mysql.jdbc.Blob@73dc1371"
+},
+{
+"id": "262",
+"statut": "0",
+"identifiant": "jean",
+"nom": "jean",
+"prenom": "claude",
+"num_telephone": "0666666666",
+"courriel": "jean@gmail.com",
+"date_de_naissance": "27-03-1999",
+"photo": "com.mysql.jdbc.Blob@a5a1d98"
+}
+],"cv": [{
+"id": "15",
+"titre": "test",
+"description": "test",
+"signature": "SAUPAGNA saupagna",
+"nom_maitrise": "tes",
+"maitrise": "7",
+"id_utilisateur": "228"
+},
+{
+"id": "16",
+"titre": "TItre",
+"description": "Description",
+"signature": "LEAL Leal",
+"nom_maitrise": "Anglais",
+"maitrise": "80",
+"id_utilisateur": "235"
+},
+{
+"id": "17",
+"titre": "ada",
+"description": "adada",
+"signature": "PIERRE pierre",
+"nom_maitrise": "etete",
+"maitrise": "9",
+"id_utilisateur": "238"
+},
+{
+"id": "19",
+"titre": "za",
+"description": "za",
+"signature": "PIERRE pierre",
+"nom_maitrise": "Titre de laza maitrise",
+"maitrise": "1",
+"id_utilisateur": "238"
+},
+{
+"id": "21",
+"titre": "fjkfjfjkfh",
+"description": "kfbjhgl",
+"signature": "ERJUUBIGREZUG erjuubigrezug",
+"nom_maitrise": "Titre de la jkhgmaitrise",
+"maitrise": "5",
+"id_utilisateur": "237"
+},
+{
+"id": "23",
+"titre": "mon cv trop bien ",
+"description": "ce cv est trop genial ",
+"signature": "ADMIN Admin",
+"nom_maitrise": "cuisson des frites ",
+"maitrise": "30",
+"id_utilisateur": "64"
+},
+{
+"id": "24",
+"titre": "grosse bite grosse moula",
+"description": "ta grosse mere la pute",
+"signature": "TESTTTTTT testttttt",
+"nom_maitrise": "Titre de la moiuyaitrise",
+"maitrise": "71",
+"id_utilisateur": "240"
+},
+{
+"id": "25",
+"titre": "titre",
+"description": "1234AZERT",
+"signature": "TEST test",
+"nom_maitrise": "oui",
+"maitrise": "90",
+"id_utilisateur": "230"
+},
+{
+"id": "26",
+"titre": "galdric",
+"description": "test de description cv",
+"signature": "PUJOL pujol",
+"nom_maitrise": "maitrise 1",
+"maitrise": "60",
+"id_utilisateur": "254"
+},
+{
+"id": "27",
+"titre": "CV test",
+"description": "Un CV classique",
+"signature": "TEST test",
+"nom_maitrise": "Java",
+"maitrise": "99",
+"id_utilisateur": "255"
+},
+{
+"id": "28",
+"titre": "Titre CV",
+"description": "mmmm",
+"signature": "TEST test",
+"nom_maitrise": "Anglais",
+"maitrise": "9",
+"id_utilisateur": "255"
+},
+{
+"id": "29",
+"titre": "MON CV",
+"description": "BON CV",
+"signature": "JEAN jean",
+"nom_maitrise": "JAVA",
+"maitrise": "2",
+"id_utilisateur": "262"
+}
+],"experience_pro": [{
+"id": "18",
+"entreprise": "test",
+"adresse": "test",
+"description": "testse",
+"annee_debut": "01-01-2019",
+"annee_fin": "01-01-2019",
+"id_cv": "15"
+},
+{
+"id": "19",
+"entreprise": "entreprise 1",
+"adresse": "Prades",
+"description": "ok ok",
+"annee_debut": "01-01-2019",
+"annee_fin": "10-07-2019",
+"id_cv": "16"
+},
+{
+"id": "20",
+"entreprise": "adad",
+"adresse": "adad",
+"description": "dad",
+"annee_debut": "01-01-2019",
+"annee_fin": "01-01-2019",
+"id_cv": "17"
+},
+{
+"id": "22",
+"entreprise": "az",
+"adresse": "az",
+"description": "za",
+"annee_debut": "01-01-2019",
+"annee_fin": "01-01-2019",
+"id_cv": "19"
+},
+{
+"id": "24",
+"entreprise": "mcdonalds",
+"adresse": "le boulou",
+"description": "cest bien ",
+"annee_debut": "01-01-2019",
+"annee_fin": "01-01-2019",
+"id_cv": "21"
+},
+{
+"id": "26",
+"entreprise": "dwsqfg",
+"adresse": "scwdvfx",
+"description": "sdwcvxfv",
+"annee_debut": "01-01-2019",
+"annee_fin": "01-01-2019",
+"id_cv": "24"
+},
+{
+"id": "27",
+"entreprise": "non",
+"adresse": "jppe",
+"description": "a2AAAAAA",
+"annee_debut": "01-01-2019",
+"annee_fin": "01-01-2019",
+"id_cv": "24"
+},
+{
+"id": "28",
+"entreprise": "ent",
+"adresse": "edre",
+"description": "1234",
+"annee_debut": "01-01-2019",
+"annee_fin": "01-01-2019",
+"id_cv": "25"
+},
+{
+"id": "30",
+"entreprise": "pro 1",
+"adresse": "proa 1",
+"description": "pro de test",
+"annee_debut": "01-01-2019",
+"annee_fin": "01-02-2019",
+"id_cv": "26"
+},
+{
+"id": "31",
+"entreprise": "Entreprise 1",
+"adresse": "Perpignan",
+"description": "OKK !",
+"annee_debut": "01-01-2019",
+"annee_fin": "01-01-2019",
+"id_cv": "27"
+},
+{
+"id": "32",
+"entreprise": "Entreprise",
+"adresse": "Perpignan",
+"description": "gggggggg",
+"annee_debut": "01-01-2019",
+"annee_fin": "01-01-2019",
+"id_cv": "28"
+},
+{
+"id": "33",
+"entreprise": "SAS",
+"adresse": "10 rue du parc",
+"description": "coding",
+"annee_debut": "01-01-2019",
+"annee_fin": "01-01-2020",
+"id_cv": "28"
+},
+{
+"id": "34",
+"entreprise": "SAS",
+"adresse": "10 RUE DU PARC",
+"description": "SYMFONY",
+"annee_debut": "06-01-2020",
+"annee_fin": "14-02-2019",
+"id_cv": "29"
+}
+],"formation": [{
+"id": "29",
+"nom": "ste",
+"lieu": "test",
+"description": "test",
+"annee_debut": "01-01-2019",
+"annee_fin": "01-01-2019",
+"id_cv": "15"
+},
+{
+"id": "30",
+"nom": "formation 1",
+"lieu": "Perpignan",
+"description": "ok",
+"annee_debut": "01-01-2019",
+"annee_fin": "01-01-2019",
+"id_cv": "16"
+},
+{
+"id": "31",
+"nom": "ada",
+"lieu": "adad",
+"description": "dada",
+"annee_debut": "01-01-2019",
+"annee_fin": "01-01-2019",
+"id_cv": "17"
+},
+{
+"id": "33",
+"nom": "az",
+"lieu": "az",
+"description": "za",
+"annee_debut": "01-01-2019",
+"annee_fin": "01-01-2019",
+"id_cv": "19"
+},
+{
+"id": "35",
+"nom": "khhjh",
+"lieu": "ffjhjh",
+"description": "jhjhkhghthgcfg",
+"annee_debut": "01-01-2019",
+"annee_fin": "01-01-2019",
+"id_cv": "21"
+},
+{
+"id": "37",
+"nom": "erfgh",
+"lieu": "sdfg",
+"description": "sdcwxv",
+"annee_debut": "01-01-2019",
+"annee_fin": "01-01-2019",
+"id_cv": "24"
+},
+{
+"id": "38",
+"nom": "oui",
+"lieu": "jpp",
+"description": "erqgq",
+"annee_debut": "01-01-2019",
+"annee_fin": "01-01-2019",
+"id_cv": "24"
+},
+{
+"id": "39",
+"nom": "nom",
+"lieu": "lieu",
+"description": "azert",
+"annee_debut": "01-01-2019",
+"annee_fin": "01-01-2019",
+"id_cv": "25"
+},
+{
+"id": "40",
+"nom": "formation 1",
+"lieu": "lieuf 1",
+"description": "formation de test",
+"annee_debut": "01-01-2018",
+"annee_fin": "01-02-2018",
+"id_cv": "26"
+},
+{
+"id": "41",
+"nom": "Formation 1",
+"lieu": "Perpignan",
+"description": "OK !",
+"annee_debut": "01-01-2019",
+"annee_fin": "01-01-2019",
+"id_cv": "27"
+},
+{
+"id": "42",
+"nom": "Formation 1",
+"lieu": "Perpigan",
+"description": "gggggggg",
+"annee_debut": "01-01-2019",
+"annee_fin": "01-01-2019",
+"id_cv": "28"
+},
+{
+"id": "43",
+"nom": "BTS SIO",
+"lieu": "PERPI",
+"description": "DEVELOPPEMENT",
+"annee_debut": "01-01-2018",
+"annee_fin": "01-01-2020",
+"id_cv": "29"
+}
+]}
